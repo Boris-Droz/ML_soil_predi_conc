@@ -5,3 +5,7 @@ R-code used in
 
 A suite of tool and Machine Learning technics and algorythm to predict top soil concentration. Could be used with modification for other continuous data.
 Files should be used in order 1. variables selections, 2.Models projection, 3.Models prediction and 4.Models averaging
+
+How to cite
+-----------
+Droz, Boris, Payraudeau, Sylvain, Rodríguez Martín, José Antonio, Tóth, Gergely, Panagos, Panos, Montanarella, Luca, Borrelli, Pasquale, & Imfeld, Gwenaël. (2022). R-Code for "Copper content and export in European vineyard soils influenced by climate and soil properties" (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5818058
